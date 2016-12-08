@@ -4,6 +4,7 @@ A baseline installation of Ubuntu Linux on a virtual machine to host a Flask web
 
 IP address: 35.165.0.82
 URL: http://ec2-35-165-0-82.us-west-2.compute.amazonaws.com/
+SSH port: 2200
 
 **Note:** The below step-by-step walkthrough is the solution to Project 5 of the [Udacity Full Stack Web Developer Nanodegree][1] and deploys a modified version of the [solution of project 3][2] on the virtual machine.
 
